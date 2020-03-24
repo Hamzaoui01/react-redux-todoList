@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(193, 226, 225);
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: tomato;
+}
+ul{
+    list-style-type:none;
+}
